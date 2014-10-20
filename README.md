@@ -1,3 +1,11 @@
+### ~/.bash_profile
+
+```bash
+alias ll='ls -lahg'
+alias http='python -m SimpleHTTPServer'
+```
+
+
 ### Gruntfile.js
 
 ```js
