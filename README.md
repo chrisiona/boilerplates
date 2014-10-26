@@ -3,6 +3,7 @@
 ```bash
 alias ll='ls -lahg'
 alias http='python -m SimpleHTTPServer'
+alias gpom='git pull origin master'
 ```
 
 
