@@ -3,7 +3,12 @@
 ```bash
 alias ll='ls -lahgG'
 alias http='python -m SimpleHTTPServer'
-alias gpom='git pull origin master'
+alias gdiff='git diff'
+alias gstat='git status'
+alias gpull='git push origin master'
+alias gpush='git push origin master'
+alias gremote='git remote -v'
+alias gbranch='git branch -v'
 ```
 
 
