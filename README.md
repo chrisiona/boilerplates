@@ -1,7 +1,7 @@
 ### ~/.bash_profile
 
 ```bash
-alias ll='ls -lahg'
+alias ll='ls -lahgG'
 alias http='python -m SimpleHTTPServer'
 alias gpom='git pull origin master'
 ```
