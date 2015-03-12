@@ -15,7 +15,7 @@ alias gbranch='git branch -v'
 
 The number of seconds before sending the server a the no-op code (keeps connection open).
 
-* Global Config ```/etc/ssh/ssh_config```
+* Global Config ```/etc/ssh/ssh_config``` | ```/etc/ssh_config```
 * User Config ```~/.ssh/config```
 
 ```bash
